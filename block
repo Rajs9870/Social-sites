@@ -90,4 +90,36 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.instagram.com/accounts/manage_access/
 0.0.0.0 www.instagram.com/accounts/remove/#
 0.0.0.0 www.instagram.com/accounts/signup/
+r1---sn-*.googlevideo.com
+r2---sn-*.googlevideo.com
+r3---sn-*.googlevideo.com
+r4---sn-*.googlevideo.com
+r5---sn-*.googlevideo.com
+r6---sn-*.googlevideo.com
+r7---sn-*.googlevideo.com
+r8---sn-*.googlevideo.com
+r9---sn-*.googlevideo.com
+r10---sn-*.googlevideo.com
+r11---sn-*.googlevideo.com
+r12---sn-*.googlevideo.com
+r13---sn-*.googlevideo.com
+r14---sn-*.googlevideo.com
+r15---sn-*.googlevideo.com
+r16---sn-*.googlevideo.com
+r17---sn-*.googlevideo.com
+r18---sn-*.googlevideo.com
+r19---sn-*.googlevideo.com
+r20---sn-*.googlevideo.com
+r21---sn-*.googlevideo.com
+r22---sn-*.googlevideo.com
+r23---sn-*.googlevideo.com
+r24---sn-*.googlevideo.com
+r25---sn-*.googlevideo.com
+r26---sn-*.googlevideo.com
+r27---sn-*.googlevideo.com
+r28---sn-*.googlevideo.com
+r29---sn-*.googlevideo.com
+r30---sn-*.googlevideo.com
+r31---sn-*.googlevideo.com
+r32---sn-*.googlevideo.com
 
