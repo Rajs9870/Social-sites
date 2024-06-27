@@ -107,38 +107,38 @@ ff02::3 ip6-allhosts
 0.0.0.0 s.ytimg.com
 0.0.0.0 video-stats.video.google.com
 0.0.0.0 r*.sn-*.googlevideo.com
-app.snapchat.com
-feelinsonice-hrd.appspot.com
-sc-analytics.appspot.com
-sc-*.sc-cdn.net
-sc-*.snapchat.com
-sc-*.edgekey.net
-sc-*.akamaized.net
-*.sc-cdn.net
-snapads-*.sc-cdn.net
-ads*.sc-cdn.net
-app.snapchat.com
-s4ec64ff79dfd2411da53724a5160d47c25ef9f58.cdn.optimizely.com
-snap-telemetry.s3.amazonaws.com
-snapkit.license.agones.dev
-snapads.com
-app-analytics-v2.snapchat.com
-adsapi.snapchat.com
-app-analytics.snapchat.com
-app.snapchat.com
-sc-static.net
-snapchat.com
-snapchat-analytics.com
-sc-cdn.net
-snapchat-api.s3.amazonaws.com
-snapchatcdn.com
-sc-davids-s3-us-west-2-6918903095418-prod.s3.amazonaws.com
-ads-sc.mindswap.prod.snapchat.com
-api.snapchat.com
-data-api.snapchat.com
-api.map.snapchat.com
-ads-storage-repository.s3.amazonaws.com
-tumblr.com
-www.tumblr.com
-api.tumblr.com
-media.tumblr.com
+0.0.0.0 app.snapchat.com
+0.0.0.0 feelinsonice-hrd.appspot.com
+0.0.0.0 sc-analytics.appspot.com
+0.0.0.0 sc-*.sc-cdn.net
+0.0.0.0 sc-*.snapchat.com
+0.0.0.0 sc-*.edgekey.net
+0.0.0.0 sc-*.akamaized.net
+0.0.0.0 *.sc-cdn.net
+0.0.0.0 snapads-*.sc-cdn.net
+0.0.0.0 ads*.sc-cdn.net
+0.0.0.0 app.snapchat.com
+0.0.0.0 s4ec64ff79dfd2411da53724a5160d47c25ef9f58.cdn.optimizely.com
+0.0.0.0 snap-telemetry.s3.amazonaws.com
+0.0.0.0 snapkit.license.agones.dev
+0.0.0.0 snapads.com
+0.0.0.0 app-analytics-v2.snapchat.com
+0.0.0.0 adsapi.snapchat.com
+0.0.0.0 app-analytics.snapchat.com
+0.0.0.0 app.snapchat.com
+0.0.0.0 sc-static.net
+0.0.0.0 snapchat.com
+0.0.0.0 snapchat-analytics.com
+0.0.0.0 sc-cdn.net
+0.0.0.0 snapchat-api.s3.amazonaws.com
+0.0.0.0 snapchatcdn.com
+0.0.0.0 sc-davids-s3-us-west-2-6918903095418-prod.s3.amazonaws.com
+0.0.0.0 ads-sc.mindswap.prod.snapchat.com
+0.0.0.0 api.snapchat.com
+0.0.0.0 data-api.snapchat.com
+0.0.0.0 api.map.snapchat.com
+0.0.0.0 ads-storage-repository.s3.amazonaws.com
+0.0.0.0 tumblr.com
+0.0.0.0 www.tumblr.com
+0.0.0.0 api.tumblr.com
+0.0.0.0 media.tumblr.com
