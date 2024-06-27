@@ -1,37 +1,59 @@
-facebook.com
-www.facebook.com
-m.facebook.com
-mobile.facebook.com
-graph.facebook.com
-api.facebook.com
-connect.facebook.net
-fbcdn.net
-scontent.fbcdn.net
-scontent.xx.fbcdn.net
-video.xx.fbcdn.net
-z-m-scontent.xx.fbcdn.net
-z-m-scontent.flim1-2.fna.fbcdn.net
-login.facebook.com
-messenger.com
-www.messenger.com
-m.me
-fb.me
-fbcdn-dragon-a.akamaihd.net
-fbcdn-photos-a-a.akamaihd.net
-developers.facebook.com
-business.facebook.com
-ads.facebook.com
-pixel.facebook.com
-static.xx.fbcdn.net
-b-graph.facebook.com
-snaptu.com
-freebasics.com
-web.facebook.com
-app.facebook.com
-edge-mqtt.facebook.com
-fb.me
-fb.com
-facebook.net
-upload.facebook.com
-bigzipfiles.facebook.com
-sv5.facebook.com
+
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+
+# Custom host records are listed here.
+
+
+# End of custom host records.
+
+
+0.0.0.0 facebook.com
+0.0.0.0 www.facebook.com
+0.0.0.0 m.facebook.com
+0.0.0.0 mobile.facebook.com
+0.0.0.0 graph.facebook.com
+0.0.0.0 api.facebook.com
+0.0.0.0 connect.facebook.net
+0.0.0.0 fbcdn.net
+0.0.0.0 scontent.fbcdn.net
+0.0.0.0 scontent.xx.fbcdn.net
+0.0.0.0 video.xx.fbcdn.net
+0.0.0.0 z-m-scontent.xx.fbcdn.net
+0.0.0.0 z-m-scontent.flim1-2.fna.fbcdn.net
+0.0.0.0 login.facebook.com
+0.0.0.0 messenger.com
+0.0.0.0 www.messenger.com
+0.0.0.0 m.me
+0.0.0.0 fb.me
+0.0.0.0 fbcdn-dragon-a.akamaihd.net
+0.0.0.0 fbcdn-photos-a-a.akamaihd.net
+0.0.0.0 developers.facebook.com
+0.0.0.0 business.facebook.com
+0.0.0.0 ads.facebook.com
+0.0.0.0 pixel.facebook.com
+0.0.0.0 static.xx.fbcdn.net
+0.0.0.0 b-graph.facebook.com
+0.0.0.0 snaptu.com
+0.0.0.0 freebasics.com
+0.0.0.0 web.facebook.com
+0.0.0.0 app.facebook.com
+0.0.0.0 edge-mqtt.facebook.com
+0.0.0.0 fb.me
+0.0.0.0 fb.com
+0.0.0.0 facebook.net
+0.0.0.0 upload.facebook.com
+0.0.0.0 bigzipfiles.facebook.com
+0.0.0.0 sv5.facebook.com
