@@ -107,4 +107,35 @@ ff02::3 ip6-allhosts
 0.0.0.0 s.ytimg.com
 0.0.0.0 video-stats.video.google.com
 0.0.0.0 r*.sn-*.googlevideo.com
+app.snapchat.com
+feelinsonice-hrd.appspot.com
+sc-analytics.appspot.com
+sc-*.sc-cdn.net
+sc-*.snapchat.com
+sc-*.edgekey.net
+sc-*.akamaized.net
+*.sc-cdn.net
+snapads-*.sc-cdn.net
+ads*.sc-cdn.net
+app.snapchat.com
+s4ec64ff79dfd2411da53724a5160d47c25ef9f58.cdn.optimizely.com
+snap-telemetry.s3.amazonaws.com
+snapkit.license.agones.dev
+snapads.com
+app-analytics-v2.snapchat.com
+adsapi.snapchat.com
+app-analytics.snapchat.com
+app.snapchat.com
+sc-static.net
+snapchat.com
+snapchat-analytics.com
+sc-cdn.net
+snapchat-api.s3.amazonaws.com
+snapchatcdn.com
+sc-davids-s3-us-west-2-6918903095418-prod.s3.amazonaws.com
+ads-sc.mindswap.prod.snapchat.com
+api.snapchat.com
+data-api.snapchat.com
+api.map.snapchat.com
+ads-storage-repository.s3.amazonaws.com
 
