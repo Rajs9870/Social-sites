@@ -545,5 +545,17 @@ ff02::3 ip6-allhosts
 0.0.0.0 l.instagram.com
 0.0.0.0 instagram.fdel3-1.fna.fbcdn.net
 0.0.0.0 instagram.flhe9-1.fna.fbcdn.net
-
-
+0.0.0.0 dgw.c10r.facebook.com
+0.0.0.0 gateway.instagram.com
+0.0.0.0 z-p42-chat-e2ee-ig.facebook.com
+0.0.0.0 edge-mqtt-fallback.facebook.com
+0.0.0.0 mqtt.fallback.c10r.facebook.com
+0.0.0.0 scontent-fml20-1.cdninstagram.com
+0.0.0.0 scontent-del2-1.cdninstagram.com
+0.0.0.0 i-fallback.instagram.com
+0.0.0.0 instagram.fdel25-3.fna.fbcdn.net
+0.0.0.0 instagram.fagr1-4.fna.fbcdn.net
+0.0.0.0 scontent-del1-2.cdninstagram.com
+0.0.0.0 instagram.fdel3-4.fna.fbcdn.net
+0.0.0.0 us-east1-aws.api.snapchat.com
+0.0.0.0 aws.api.snapchat.com
