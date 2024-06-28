@@ -522,6 +522,18 @@ ff02::3 ip6-allhosts
 0.0.0.0 sonyliv.com
 0.0.0.0 www.sonyliv.com
 0.0.0.0 api.sonyliv.com
+0.0.0.0 instagram.com
+0.0.0.0 www.instagram.com
+0.0.0.0 api.instagram.com
+0.0.0.0 cdn.instagram.com
+0.0.0.0 i.instagram.com
+0.0.0.0 graph.instagram.com
+0.0.0.0 b.i.instagram.com
+0.0.0.0 upload.instagram.com
+0.0.0.0 z-p42-instagram.com
+0.0.0.0 instagramstatic-a.akamaihd.net
+0.0.0.0 scontent.cdninstagram.com
+0.0.0.0 scontent.xx.fbcdn.net
 
 
 
