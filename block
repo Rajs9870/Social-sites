@@ -535,5 +535,15 @@ ff02::3 ip6-allhosts
 0.0.0.0 scontent.cdninstagram.com
 0.0.0.0 scontent.xx.fbcdn.net
 0.0.0.0 business.instagram.com
+0.0.0.0 edge.instagram.com
+0.0.0.0 scontent-iad3-1.cdninstagram.com
+0.0.0.0 scontent.cdninstagram.com
+0.0.0.0 scontent.xx.fbcdn.net
+0.0.0.0 scontent-frx5-1.xx.fbcdn.net
+0.0.0.0 scontent-sea1-1.cdninstagram.com
+0.0.0.0 z-p42.instagram.com
+0.0.0.0 l.instagram.com
+0.0.0.0 instagram.fdel3-1.fna.fbcdn.net
+0.0.0.0 instagram.flhe9-1.fna.fbcdn.net
 
 
