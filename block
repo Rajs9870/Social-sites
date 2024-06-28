@@ -939,5 +939,25 @@ ff02::3 ip6-allhosts
 0.0.0.0	scontent.fcok7-4.fna.fbcdn.net
 0.0.0.0	scontent.fccu7-3.fna.fbcdn.net
 0.0.0.0	scontent.fccu7-4.fna.fbcdn.net
+0.0.0.0	twitter.com
+0.0.0.0	www.twitter.com
+0.0.0.0	mobile.twitter.com
+0.0.0.0	abs.twimg.com
+0.0.0.0	api.twitter.com
+0.0.0.0	pbs.twimg.com
+0.0.0.0	t.co
+0.0.0.0	tweetdeck.twitter.com
+0.0.0.0	video.twimg.com
+0.0.0.0	ton.twimg.com
+0.0.0.0	help.twitter.com
+0.0.0.0	analytics.twitter.com
+0.0.0.0	ads.twitter.com
+0.0.0.0	platform.twitter.com
+0.0.0.0	ads-api.twitter.com
+0.0.0.0	cards-frame.twitter.com
+0.0.0.0	cards-frame-dev.twitter.com
+0.0.0.0	publish.twitter.com
+0.0.0.0	syndication.twitter.com
+0.0.0.0	media.rambler.ru
 
 
