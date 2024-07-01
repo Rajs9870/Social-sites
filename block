@@ -960,4 +960,7 @@ ff02::3 ip6-allhosts
 0.0.0.0	syndication.twitter.com
 0.0.0.0	media.rambler.ru
 0.0.0.0	news.abplive.com
+0.0.0.0	instagram.fdel3-5.fna.fbcdn.net
+0.0.0.0	graph-fallback.instagram.com
+0.0.0.0	instagram.fdel1-3.fna.fbcdn.net
 
