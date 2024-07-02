@@ -49,6 +49,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 snaptu.com
 0.0.0.0 freebasics.com
 0.0.0.0 web.facebook.com
+0.0.0.0 web-fallback.facebook.com
 0.0.0.0 app.facebook.com
 0.0.0.0 edge-mqtt.facebook.com
 0.0.0.0 fb.me
