@@ -21,12 +21,16 @@ ff02::3 ip6-allhosts
 
 
 0.0.0.0 facebook.com
+0.0.0.0 mqtt-mini.facebook.com
 0.0.0.0 about.meta.com
 0.0.0.0 www.facebook.com
 0.0.0.0 m.facebook.com
 0.0.0.0 mobile.facebook.com
 0.0.0.0 graph.facebook.com
+0.0.0.0 mqtt-mini.facebook.com
+0.0.0.0 star.c10r.facebook.com
 0.0.0.0 api.facebook.com
+0.0.0.0 b-api.facebook.com
 0.0.0.0 connect.facebook.net
 0.0.0.0 fbcdn.net
 0.0.0.0 scontent.fbcdn.net
